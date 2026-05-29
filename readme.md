@@ -74,7 +74,7 @@ FallbackFontTextMeshPro=arialuni_sdf_u2022
 
 ### Вариант 2:
 
-1. Скачать и распаковать архив в корень игры из [realeses](...).
+1. Скачать и распаковать архив в корень игры из [realeses](https://github.com/evilkuma/schrodingers-cat-burglar-localisation-ru/releases/tag/v1.0.0).
 
 ---
 
