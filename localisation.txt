@@ -1,4 +1,4 @@
-,en,fr,de,pt-BR,zh-CN
+id,en,fr,de,pt-BR,zh-CN
 aatech_fxaa,FXAA,FXAA,FXAA,FXAA,FXAA
 aatech_msaa,MSAA,MSAA,MSAA,MSAA,MSAA
 aatech_smaa,SMAA,SMAA,SMAA,SMAA,SMAA
@@ -1327,3 +1327,9 @@ direction_back,Назад,Dos,Zurück,Voltar,后退
 setting_Brightness,Яркость,Luminosité,Helligkeit,Brilho,亮度
 setting_Contrast,Контраст,Contraste,Kontrast,Contraste,对比
 setting_Saturation,Насыщенность,Saturation,Sättigung,Saturação,饱和
+setting_PlayerBackupFrequency,Частота резервного копирования данных игрока,Loading...,Loading...,Loading...,玩家数据备份频率
+setting_PlayerBackupFrequencyDescription,"При включении этой функции прогресс игрока будет резервно копироваться при сохранении, которое произойдет через столько минут после предыдущего резервного копирования.","Lorsque cette option est activée, la progression du joueur sera sauvegardée à chaque sauvegarde, soit un certain nombre de minutes après la sauvegarde précédente.",Loading...,Loading...,启用此功能后，玩家游戏进度将在上次备份后指定分钟数内进行备份。
+setting_HistoricTriggerChecks,Исторические проверки триггеров,Vérifications des déclencheurs historiques,Historische Triggerprüfungen,Verificações de gatilho históricas,历史触发检查
+setting_HistoricTriggerChecksDescription,ЭКСПЕРИМЕНТАЛЬНЫЙ РЕЖИМ — Включайте эту опцию только в том случае, если вам кажется, что вы пропустили какие-либо достижения или триггеры.,EXPÉRIMENTAL - N'activez cette option que si vous pensez avoir manqué des succès ou des déclencheurs.,Loading...,Loading...,Loading...
+setting_StressfulSoundsVolume,Громкость резких звуков,Volume des sons stressants,Loading...,Volume de sons estressantes,Loading...
+setting_StressfulSoundsVolumeDescription,Чтобы уменьшить количество таких вещей, как сирены.,Pour réduire les bruits comme les sirènes,Loading...,Loading...,为了减少诸如警报器之类的东西
