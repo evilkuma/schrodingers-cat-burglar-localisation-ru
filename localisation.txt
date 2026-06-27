@@ -1335,3 +1335,46 @@ setting_StressfulSoundsVolume,Громкость резких звуков,Volum
 setting_StressfulSoundsVolumeDescription,Чтобы уменьшить количество таких вещей, как сирены.,Pour réduire les bruits comme les sirènes,Loading...,Loading...,为了减少诸如警报器之类的东西
 message_coopInfoTitle,Кооперативный режим,Mode coopératif,Kooperativer Modus,Modo cooperativo,合作模式
 message_coopInfoBody,"Возможность играть за двух кошек открывается, когда $mittens получает свои способности, что происходит примерно через 20 минут игры.<BR><B>Кооперативный режим</B> требует двух контроллеров.<BR><B>Кооператив с клавиатурой</B> позволяет одному игроку использовать контроллер, а другому — клавиатуру.<BR><B>Одиночный режим</B> является подходящей заменой кооперативной игры «два игрока на одной клавиатуре».","La possibilité d'incarner deux chats est débloquée lorsque $mittens obtient ses pouvoirs, ce qui se produit après environ 20 minutes de jeu.<BR><B>Le mode coopératif</B> nécessite deux manettes.<BR><B>Le mode coopératif au clavier</B> permet à un joueur d'utiliser une manette et à l'autre un clavier.<BR><B>Le mode solo</B> est une alternative convenable au mode coopératif « deux joueurs sur un seul clavier ».","Die Möglichkeit, mit zwei Katzen zu spielen, wird freigeschaltet, sobald $mittens ihre Kräfte erlangt, was nach etwa 20 Minuten Spielzeit der Fall ist.<BR><B>Der Koop-Modus</B> erfordert zwei Controller.<BR><B>Im Tastatur-Koop-Modus</B> kann ein Spieler mit Controller und einer mit Tastatur spielen.<BR><B>Der Einzelspielermodus</B> ist eine geeignete Alternative zum Koop-Modus mit zwei Spielern an einer Tastatur.","A possibilidade de jogar com dois gatos é desbloqueada quando Mittens adquire seus poderes, o que acontece após cerca de 20 minutos de jogo.<BR><B>O Modo Cooperativo</B> requer dois controles.<BR><B>O Modo Cooperativo com Teclado</B> permite um jogador com controle e outro com teclado.<BR><B>O Modo para Um Jogador</B> é uma alternativa adequada ao modo cooperativo para dois jogadores com um teclado.",当 $mittens 获得超能力后，即可解锁操控两只猫的功能，这大约会在游戏进行 20 分钟后发生。<BR><B>合作模式</B>需要两个控制器。<BR><B>键盘合作模式</B>允许一名玩家使用控制器，另一名玩家使用键盘。<BR><B>单人模式</B>是“双人键盘合作模式”的理想替代方案。
+setting_AllowPuzzleResetWhenComplete,Разрешить сброс головоломки после завершения,Autoriser la réinitialisation du puzzle une fois terminé,Nach Abschluss des Puzzles kann dieses zurückgesetzt werden.,Permitir reinicialização do quebra-cabeça ao concluir,拼图完成后允许重置
+setting_AllowPuzzleResetWhenCompleteDescription,Включите эту опцию если хотите повторно пройти какие-либо головоломки.,Activez cette option si vous souhaitez réessayer de résoudre les énigmes.,"Aktivieren Sie diese Option, wenn Sie Rätsel erneut versuchen möchten.",Ative esta opção se desejar tentar novamente algum dos quebra-cabeças.,启用此功能，即可重新尝试任何谜题。
+menu_PlayerOneController,Котик 1 Контроллер,Contrôleur Cat 1,Cat-1-Controller,Controlador de Categoria 1,1类控制器
+menu_PlayerOneControllerDescription,Заставить игрока 1 использовать определенный контроллер,Forcer le joueur 1 à utiliser une manette spécifique,"Spieler 1 soll gezwungen werden, einen bestimmten Controller zu verwenden.",Forçar o Jogador 1 a usar um controle específico.,强制玩家 1 使用特定控制器
+menu_PlayerTwoController,Котик 2 Контроллер,Contrôleur Cat 2,Cat-2-Controller,Controlador de categoria 2,2类控制器
+menu_PlayerTwoControllerDescription,Заставить игрока 2 использовать определенный контроллер,Forcer le joueur 2 à utiliser une manette spécifique,"Spieler 2 soll gezwungen werden, einen bestimmten Controller zu verwenden.",Forçar o Jogador 2 a usar um controle específico.,强制玩家 2 使用特定控制器
+setting_Auto,Auto,Auto,Auto,Auto,汽车
+category_back,Назад,Dos,Zurück,Voltar,后退
+info_ApplyToAll,Применить ко всем,S'applique à tous,Für alle gelten,Aplicar a todos,适用于所有
+setting_AllDevices,Все устройства,Tous les appareils,Alle Geräte,Todos os dispositivos,所有设备
+setting_Keyboard,Клавиатура,Clavier,Tastatur,Teclado,键盘
+menu_EnableCoopMode,Включить кооп режим,Activer le mode coopératif,Koop-Modus aktivieren,Ativar o modo cooperativo,启用合作模式
+menu_EnableCoopModeDescription,Разрешить игру двум игрокам с использованием различных устройств и клавиатуры,Autoriser deux joueurs sur différents appareils et avec saisie au clavier,Ermöglichen Sie zwei Spielern die Nutzung verschiedener Geräte und Tastatureingaben.,Permitir dois jogadores em uma combinação de dispositivos e entrada de teclado.,允许两名玩家使用多种设备和键盘输入
+timespan_Second,секунд,deuxième,zweite,segundo,第二
+setting_EnableFusedCosmeticsSet,Включить объединенный косметический набор,Activer l'ensemble cosmétique fusionné,Verschmolzenes Kosmetikset aktivieren,Ativar Conjunto de Cosméticos Fundidos,启用融合化妆品套装
+setting_EnableFusedCosmeticsSetDescription,Включите эту опцию чтобы у объединенного кота был отдельный набор характеристик отличный от наборов двух исходных котов,Activez cette option pour permettre au chat fusionné d'avoir un ensemble distinct de celui des deux chats séparés.,"Aktivieren Sie diese Option, damit die fusionierte Katze ein separates Set von den beiden getrennten Katzen hat.",Ative esta opção para permitir que o gato fundido tenha um conjunto separado dos dois gatos separados.,启用此功能可使融合的猫拥有与两个分离的猫不同的独立组。
+menu_coopSkipTitle,Перейти к кооперативному режиму?,Passer directement au mode coopératif ?,Direkt zum Koop-Modus?,Avançar para o Modo Cooperativo?,直接跳到合作模式？
+menu_coopSkipBody,"Возможность играть за двух кошек открывается, когда Миттенс обретает свои способности; это происходит примерно через 20 минут игры.<BR>Хотите ли вы пропустить часть сюжета и сразу перейти к этому моменту?","La possibilité de jouer avec deux chats est débloquée lorsque $mittens obtient ses pouvoirs, ce qui arrive après environ 20 minutes de jeu.<BR>Souhaitez-vous passer directement à ce point de l'histoire ?","Die Möglichkeit, mit zwei Katzen zu spielen, wird freigeschaltet, sobald $mittens ihre Kräfte erlangt, was nach etwa 20 Minuten Spielzeit geschieht.<BR>Möchten Sie in der Geschichte direkt zu diesem Punkt springen?","A possibilidade de jogar com dois gatos é desbloqueada quando Mittens adquire seus poderes, o que acontece após cerca de 20 minutos de jogo.<br>Deseja avançar na história até este ponto?",当 $mittens 获得超能力后，即可解锁操控两只猫的功能，这大约会在游戏进行 20 分钟后发生。<BR>您想直接跳到故事的这一部分吗？
+menu_coopSkipConfirm,Перейти дальше,Passer à la suite,Weiter,Avançar para a frente,跳至
+menu_coopSkipCancel,Воспроизвести с начала,Jouez depuis le début,Spiel von Anfang an,Jogue desde o início.,从头开始玩
+setting_DirectionalHintDecals,Указатели направления,Autocollants de signalisation directionnelle,Wegweiser-Aufkleber,Adesivos de indicação de direção,方向提示贴纸
+setting_DirectionalHintDecalsDescription,Разместите рядом с дверями иконки с желтым шевроном чтобы показать куда двигаться дальше,Ajoutez des autocollants en forme de chevron jaune à côté des portes pour indiquer la direction à suivre.,"Bringen Sie gelbe Chevron-Aufkleber neben den Türen an, um den Weg nach draußen zu weisen.",Adicione decalques amarelos em forma de V ao lado das portas para indicar o próximo caminho.,在门旁贴上黄色V形贴纸，指示下一步该往哪里走。
+customisation_graduationCap,Академическая шапочка,Toque de remise de diplôme,Absolventenmütze,Chapéu de formatura,毕业帽
+back_beeWings,Крылья пчелы,Ailes d'abeille,Bienenflügel,Asas de Abelha,蜜蜂翅膀
+back_boomBox,Boom Box,Boom Box,Boombox,Caixa de som,音响
+back_cowboyRider,Ковбой-наездник,Cowboy Rider,Cowboy-Reiter,Cavaleiro Cowboy,牛仔骑士
+back_dangleToy,Подвесная игрушка,Jouet suspendu,Hängespielzeug,Brinquedo pendurado,悬挂玩具
+back_dragonWings,Драконьи крылья,Ailes de dragon,Drachenflügel,Asas de Dragão,龙翼
+back_fairyWings,Крылья феи,Ailes de fée,Feenflügel,Asas de Fada,仙女翅膀
+back_jetPack,Реактивный ранец,Jet Pack,Jetpack,Mochila a jato,喷气背包
+back_sharkFin,Акулий плавник,Aileron de requin,Haifischflosse,Barbatana de tubarão,鲨鱼鳍
+back_tutu,Tutu,Tutu,Tutu,Tutu,图图
+cosmetic_furcolour_abysinnian,Abyssinian,abyssinien,Abessinisch,Abissínio,阿比西尼亚语
+cosmetic_furcolour_bumbleBee,Шмель,Bourdon,Hummel,Abelha-bumbum,大黄蜂
+cosmetic_furcolour_blue,Blue Mittens,Moufles bleues,Blaue Fäustlinge,Luvas azuis,蓝色手套
+cosmetic_furcolour_glamRock,Glam Rock,Glam Rock,Glam Rock,Glam Rock,华丽摇滚
+customisation_beeHeadband,Ободок Пчелка,bandeau abeille,Bienenstirnband,Tiara de Abelha,蜜蜂发箍
+pendant_lanyardAlpha,Alpha Lanyard,Lanière Alpha,Alpha-Lanyard,Cordão Alfa,阿尔法挂绳
+pendant_lanyardBeta,Beta Lanyard,Lanière Beta,Beta-Lanyard,Cordão Beta,Beta 挂绳
+pendant_lanyardGamma,Gamma Lanyard,Lanière Gamma,Gamma-Lanyard,Cordão Gamma,伽玛挂绳
+pendant_lanyardDelta,Delta Lanyard,Lanière Delta,Delta-Lanyard,Cordão Delta,三角洲挂绳
+pendant_lanyardEpsilon,Epsilon Lanyard,Lanière Epsilon,Epsilon Lanyard,Cordão Épsilon,Epsilon 挂绳
+customisation_boxHat,Картонная коробка,Boîte en carton,Pappkarton,Caixa de papelão,纸箱
