@@ -1378,3 +1378,4 @@ pendant_lanyardGamma,Gamma Lanyard,Lanière Gamma,Gamma-Lanyard,Cordão Gamma,�
 pendant_lanyardDelta,Delta Lanyard,Lanière Delta,Delta-Lanyard,Cordão Delta,三角洲挂绳
 pendant_lanyardEpsilon,Epsilon Lanyard,Lanière Epsilon,Epsilon Lanyard,Cordão Épsilon,Epsilon 挂绳
 customisation_boxHat,Картонная коробка,Boîte en carton,Pappkarton,Caixa de papelão,纸箱
+character_whistleBlower,???,???,???,???,？？？
