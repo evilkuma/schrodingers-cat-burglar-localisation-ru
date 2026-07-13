@@ -2,6 +2,7 @@ id,en,fr,de,pt-BR,zh-CN
 aatech_fxaa,FXAA,FXAA,FXAA,FXAA,FXAA
 aatech_msaa,MSAA,MSAA,MSAA,MSAA,MSAA
 aatech_smaa,SMAA,SMAA,SMAA,SMAA,SMAA
+aatech_taa,TAA,TAA,TAA,TAA,TAA
 action_bite,Укусить ручку панели,Mordre la poignée du panneau,Auf den Griff des Panels beißen,Morder puxador do painel,咬住面板把手
 action_both,Оба,Les deux,Beide,Ambos,两者
 action_bypass,Обойти,Contourner,Umgehen,Desviar,绕过
@@ -1379,3 +1380,5 @@ pendant_lanyardDelta,Delta Lanyard,Lanière Delta,Delta-Lanyard,Cordão Delta,�
 pendant_lanyardEpsilon,Epsilon Lanyard,Lanière Epsilon,Epsilon Lanyard,Cordão Épsilon,Epsilon 挂绳
 customisation_boxHat,Картонная коробка,Boîte en carton,Pappkarton,Caixa de papelão,纸箱
 character_whistleBlower,???,???,???,???,？？？
+help_bonusPuzzles_main,"Эти бонусные головоломки могут быть сложнее, чем головоломки в основной игре.<BR>Подсказок нет, и вы можете застрять, если сделаете неправильный поворот.<BR>Нажмите $Hint, чтобы сбросить головоломку.",Ces énigmes bonus peuvent être plus difficiles que celles du jeu principal. Il n'y a pas d'indices et vous risquez d'être bloqué si vous faites un mauvais choix. Appuyez sur $Hint pour réinitialiser une énigme.,"Diese Bonus-Rätsel können schwieriger sein als die Rätsel im Hauptspiel. Es gibt keine Hinweise, und du kannst eingeschlossen werden, wenn du einen falschen Weg einschlägst. Drücke $Hinweis, um ein Rätsel zurückzusetzen.",Esses quebra-cabeças bônus podem ser mais difíceis do que os quebra-cabeças do jogo principal. Não há dicas e você pode ficar preso se fizer uma curva errada. Pressione $Dica para reiniciar um quebra-cabeça.,这些奖励谜题可能比主游戏中的谜题更难。<BR>没有提示，如果你走错路，就会被困住。<BR>按$Hint键重置谜题。
+help_bonusPuzzles_title,Бонусные головоломки,Puzzles bonus,Bonus-Rätsel,Quebra-cabeças bônus,奖励谜题
